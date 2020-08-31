@@ -2,7 +2,7 @@
 
 ![Crème de Calissons](./images/creme-calisson.jpg)
 
-[Revenir à l'index](..)
+[Revenir à l'index](../README.md)
 
 Best pâte-à-tartiner ever à l'unanimité de moi-même, la crème de calissons n'est pas très compliquée à faire, mais demande un peu de temps. À moins d'acheter du melon confit tout prêt. J'ai fait un premier essai cet été 2020, il y a certainement quelques pistes d'améliorations, mais le résultat est déjà super.
 
@@ -61,4 +61,4 @@ Lorsque tout est bien mixé, goûtez et corrigez l'acidité avec du jus de citro
 
 ![Tartine](./images/creme-calisson-2.jpg)
 
-[Revenir à l'index](..)
+[Revenir à l'index](../README.md)
