@@ -26,3 +26,6 @@ Je ne connais pas d'autre nom pour ce nougat de cacahuète que celui qu'on trouv
 - Ajouter le miel, mélanger. Ajouter le cacao et mélanger (pas trop, pour l'esthétique, histoire de voir le cacao).
 - Dans un moule en longueur tapissé de papier sulfurisé (au moins le fond), y verser la pâte.
 - Réserver 24h au frigo avant de démouler.
+
+![Nougahuète](./nougahuète.jpg)
+
