@@ -18,46 +18,24 @@ Deux petites notes :
 
 - En fin de recette, on laisse sécher les melons 3 / 4 jours. Ça se tient pour faire du melon confit, mais dans le cas de la crème de calissons, peut-être qu'on peut sauter cette étape car, d'une part, le melon sera mixé, d'autre part, il faudra ajouter un peu d'eau (vous verrez dans la suite). Bref, à tester.
 
-## Prévoir deux mixeurs
+## Et des peaux d'orange
 
-Pour la crème de calissons, je me suis basé sur deux recettes et un peu de feeling :
-
-- https://www.cuisineaz.com/recettes/calissons-d-aix-49514.aspx
-- https://www.altergusto.fr/2009/12/18/creme-de-calisson-maison-2-versions/
-
-Mais méfiez-vous de la première : en la suivant, j'ai grillé un mixeur 😢 (et pourtant, je pensais l'avoir déjà poussé dans ses retranchements en faisant du praliné). Bref: le mélange melon confit + amandes doit être humidifié.
+Il faudra quelques écorces d'oranges confites (1g par 6g de melon confit). On peut en trouver dans le commerce, ou les faire soi-même. Découpez quelques peaux d'oranges en lamelles, retirer un peu de ziste (la partie blanche) pour enlever de l'amertume, selon vos préférences, et faites-les confire. On remarquera que le melon est un fruit d'été, l'orange un fruit d'hiver... On peut prendre l'habitude de congeler les écorces d'oranges et toujours garder un stock (pas mal aussi pour les orangettes au chocolat!).
 
 ## Ingrédients
 
-Adaptez les proportions en fonction de la quantité de melon confit que vous avez. Pour moi, 500g de melon frais a donné 240g de melon confit (séché 3-4 jours), puis deux pots à confiture de crème de calissons.
+Adaptez les proportions en fonction de la quantité de melon confit que vous avez. Pour moi, 500g de melon frais a donné 240g de melon confit (séché 3-4 jours), puis deux pots de 40cl de crème de calissons. Voici les proportions pour un pot de 40cl :
 
-- 280g d'amandes (émondées... ou pas *)
-- 170g de sucre **
-- 240g de melon confit
-- 40g d'oranges confites ***
-- 1 cuillère à café d'extrait d'amande amère
-- 40 ml d'eau
-- (un citron/jus à portée de main) ****
+- 140g d'amandes (si émondées : texture plus fluide, plus claire, moins de fibres)
+- 80g de sucre glace (sinon mixez du sucre en poudre 4 minutes)
+- 120g de melon confit
+- 20g d'écorces d'oranges confites
+- 1/2 cuillère à café d'extrait d'amande amère
+- 30ml de jus de citron
 
-*: je ne suis pas convaincu que ça change grand chose au goût; la crème sera sûrement plus esthétique avec des amandes émondées, personnellement je fais l'impasse là-dessus, j'ai une crème un peu brunâtre, moins homogène, mais plus riche en fibres!
+## Mixage
 
-**: certaines recettes demandent du sucre glace, d'autres non. Je ne sais pas trop ce que ça change une fois mélangé. Du coup j'ai fait moit-moit'. Pas convaincu par la nécessité de sucre glace.
-
-***: j'avoue j'ai triché, j'ai mis de la confiture d'orange amère. Peut-être que ça joue sur la balance avec le citron.
-
-****: les recettes que j'ai trouvé ne mentionnent pas de citron. Pourtant, après y avoir goûté, j'ai dû corriger l'acidité (donc ajout de jus de citron) pour contrer le melon trop présent. Je trouve que ça a bien marché et on retrouve bien le goût du calisson.
-
-## Étapes
-
-C'est pas compliqué :
-
-- Découpez le melon en petits dés
-- À part le jus de citron, mélangez tout ensemble
-- Mixez
-
-Si la pâte est trop collante et fait souffrir votre mixeur, ajoutez de l'eau, mélangez manuellement, et remixez. La pâte doit être onctueuse.
-
-Lorsque tout est bien mixé, goûtez et corrigez l'acidité avec du jus de citron. Personnellement, 20 ml de jus ont fait l'affaire.
+Mélangez tout et mixez. Ce sera assez éprouvant pour le mixeur (j'en ai grillé un la première fois!), lorsque la pâte devient collante et/ou votre mixeur est en galère, délayez avec un peu d'eau en mélangeant manuellemnt. La pâte doit être onctueuse.
 
 ![Tartine](./images/creme-calisson-2.jpg)
 
