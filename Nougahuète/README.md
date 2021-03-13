@@ -1,4 +1,4 @@
-# Nougat de cacahuètes aka "Mantecol" aka "Nougahuète"
+# Nougahuète aka Mantecol aka nougat de cacahuètes
 
 Je ne connais pas d'autre nom pour ce nougat de cacahuète que celui qu'on trouve communément en Argentine, mais il s'agit d'une marque, le Mantecol. Alors faute de mieux, on appelera ça ici du "nougahuète".
 
