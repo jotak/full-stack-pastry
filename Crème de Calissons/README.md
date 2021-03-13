@@ -35,7 +35,7 @@ Adaptez les proportions en fonction de la quantité de melon confit que vous ave
 
 ## Mixage
 
-Mélangez tout et mixez. Ce sera assez éprouvant pour le mixeur (j'en ai grillé un la première fois!), lorsque la pâte devient collante et/ou votre mixeur est en galère, délayez avec un peu d'eau en mélangeant manuellemnt. La pâte doit être onctueuse.
+Mélangez tout et mixez. Ce sera assez éprouvant pour le mixeur (j'en ai grillé un la première fois!), lorsque la pâte devient collante et/ou votre mixeur est en galère, délayez avec un peu d'eau en mélangeant manuellement. La pâte doit être onctueuse.
 
 ![Tartine](./images/creme-calisson-2.jpg)
 
