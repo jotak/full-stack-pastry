@@ -21,3 +21,7 @@ Quelques recettes open-source (MIT), pull-requests bienvenues!
 ## Baklava
 
 À venir
+
+## Le Parchemin de Cuges
+
+À venir
