@@ -23,7 +23,7 @@ Je ne connais pas d'autre nom pour ce nougat de cacahuète que celui qu'on trouv
 - Faire le caramel à feu vif (sucre + eau), jusqu'à ce qu'il ait une belle couleur ambrée.
 - Pendant ce temps, dans un saladier résistant à la chaleur, monter le blanc en neige avec une pincée de sel.
 - Quand le caramel est prêt, le verser en petit filet sur le blanc en continuant de battre (attention aux projections).
-- Ajouter le miel, mélanger. Ajouter le cacao et mélanger (pas trop, pour l'esthétique, histoire de voir le cacao).
+- Ajouter le miel et le beurre de cacahuète, mélanger. Ajouter le cacao et mélanger (pas trop, pour l'esthétique, histoire de voir le cacao).
 - Dans un moule en longueur tapissé de papier sulfurisé (au moins le fond), y verser la pâte.
 - Réserver 24h au frigo avant de démouler.
 
