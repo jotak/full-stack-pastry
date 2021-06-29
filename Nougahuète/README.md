@@ -19,6 +19,7 @@ Je ne connais pas d'autre nom pour ce nougat de cacahuète que celui qu'on trouv
 
 ## Étapes
 
+- Si le beurre de cacahuètes est recouvert d'une épaisse couche d'huile, mettre cette huile de côté pour éviter d'avoir une pâte trop souple. Au besoin, si la préparation est trop sèche par la suite, on pourra en réintégrer.
 - Pilonner les noix et les mélanger au beurre de cacahuètes.
 - Faire le caramel à feu vif (sucre + eau), jusqu'à ce qu'il ait une belle couleur ambrée.
 - Pendant ce temps, dans un saladier résistant à la chaleur, monter le blanc en neige avec une pincée de sel.
