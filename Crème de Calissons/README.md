@@ -1,7 +1,7 @@
 # Crème de Calissons
 
 ![Crème de Calissons](./images/creme-calisson.jpg)
-_Crème de calissons sans émonder les amandes d'où la couleur brunâtre_
+_La queen du ptit déj_
 
 [Revenir à l'index](../README.md)
 
@@ -53,5 +53,6 @@ Adaptez les proportions en fonction de la quantité de melon confit que vous ave
 Normalement grâce au sirop de sucre, on doit obtenir une pâte onctueuse. Si elle vous paraît trop sèche / trop collante, n'hésitez pas à ajuster avec un peu d'eau. Si elle est trop liquide... vous ferez mieux la prochaine fois!
 
 ![Tartine](./images/creme-calisson-2.jpg)
+_L'aspect brunâtre ici est dû aux amandes non émondées_
 
 [Revenir à l'index](../README.md)
