@@ -14,11 +14,13 @@ Quelques recettes open-source (MIT), pull-requests bienvenues!
 
 > Je ne connais pas d'autre nom pour ce nougat de cacahuète que celui qu'on trouve communément en Argentine [...] alors faute de mieux, on appelera ça ici du "nougahuète".
 
+## [Baklava](./Baklava)
+
+<img src="Baklava/images/baklava-3.jpg" width=50% height=50%>
+
+> La *vraie* recette de la baklava, *à peu près*.
+
 ## Glace Sabayon-Rhum
-
-À venir
-
-## Baklava
 
 À venir
 
