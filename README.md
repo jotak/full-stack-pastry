@@ -24,7 +24,7 @@ Quelques recettes open-source (MIT), pull-requests bienvenues!
 
 <img src="Glace Pistache/images/glace_pistache.jpg" width=50% height=50%>
 
-> Dans la vie, il y a deux type de glaces à la pistache [...] [Lire la suite](./Glace%20Pistache).
+> Dans la vie, il y a deux types de glaces à la pistache [...] [Lire la suite](./Glace%20Pistache).
 
 ## Glace Sabayon-Rhum
 

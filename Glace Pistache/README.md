@@ -4,7 +4,7 @@
 
 [Revenir à l'index](../README.md)
 
-Dans la vie, il y a deux type de glaces à la pistache : celles à l'arôme pistache ("naturel" ou artificiel, peu importe), et celles sans. Les premières constituent au doigt mouillé peut-être 99% de celles qu'on trouve partout. Je préfère de loin les secondes, au goût plus subtil et plus proche du fruit sec. C'est bien évidemment de celles-là qu'on va parler.
+Dans la vie, il y a deux types de glaces à la pistache : celles à l'arôme pistache ("naturel" ou artificiel, peu importe), et celles sans. Les premières constituent au doigt mouillé peut-être 99% de celles qu'on trouve partout. Je préfère de loin les secondes, au goût plus subtil et plus proche du fruit sec. C'est bien évidemment de celles-là qu'on va parler.
 
 Je suis parti de [cette recette](https://chichichoc.blogspot.com/2022/06/glace-la-pistache-la-sicilienne-sans.html) du blog _Chic chic chocolat_, et finalement très peu modifiée. N'hésitez pas à aller voir l'original.
 
