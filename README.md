@@ -26,6 +26,11 @@ Quelques recettes open-source (MIT), pull-requests bienvenues!
 
 > Dans la vie, il y a deux types de glaces à la pistache [...] [Lire la suite](./Glace%20Pistache).
 
+## [Lemon Curd](./Lemon%20Curd)
+
+> Une recette plutôt simple et rapide, mais néanmoins sympa et utile lorsqu'on ne sait plus quoi faire de ses citrons [...] [Lire la suite](./Lemon%20Curd).
+
+
 ## Glace Sabayon-Rhum
 
 À venir
