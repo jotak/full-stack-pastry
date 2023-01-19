@@ -1,5 +1,7 @@
 # Lemon Curd
 
+![Lemon curd](./images/lemon-curd.jpg)
+
 Une recette plutôt simple et rapide, mais néanmoins sympa et utile lorsqu'on ne sait plus quoi faire de ses citrons.
 
 Pour un pot de confiture:
@@ -19,3 +21,5 @@ Pour un pot de confiture:
 7. Arrêtez la cuisson lorsque ça épaissit (~ 5 minutes), et mettez en pot.
 
 Étant donné qu'il y a des oeufs et la cuisson étant rapide, je suppose qu'il ne faut pas conserver trop longtemps (?)
+
+[Revenir à l'index](../README.md)

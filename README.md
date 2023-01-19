@@ -28,6 +28,8 @@ Quelques recettes open-source (MIT), pull-requests bienvenues!
 
 ## [Lemon Curd](./Lemon%20Curd)
 
+<img src="Lemon Curd/images/lemon-curd.jpg" width=50% height=50%>
+
 > Une recette plutôt simple et rapide, mais néanmoins sympa et utile lorsqu'on ne sait plus quoi faire de ses citrons [...] [Lire la suite](./Lemon%20Curd).
 
 
