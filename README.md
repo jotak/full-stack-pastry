@@ -32,6 +32,12 @@ Quelques recettes open-source (MIT), pull-requests bienvenues!
 
 > Une recette plutôt simple et rapide, mais néanmoins sympa et utile lorsqu'on ne sait plus quoi faire de ses citrons [...] [Lire la suite](./Lemon%20Curd).
 
+## [Cuñapes](./Cunapes)
+
+<img src="Cunapes/images/cuits.jpg" width=50% height=50%>
+
+> Parenthèse salée avec “El Cuñapé”, un petit bijou gourmand de la cuisine Bolivienne [...] [Lire la suite](./Cunapes).
+
 
 ## Glace Sabayon-Rhum
 
