@@ -38,6 +38,11 @@ Quelques recettes open-source (MIT), pull-requests bienvenues!
 
 > Parenthèse salée avec “El Cuñapé”, un petit bijou gourmand de la cuisine Bolivienne [...] [Lire la suite](./Cunapes).
 
+## [Glace Praliné](./Glace%20Praliné)
+
+<img src="Glace Praliné/images/?.jpg" width=50% height=50%>
+
+> Le praliné, c'est compliqué. [...] [Lire la suite](./Glace%20Praliné).
 
 ## Glace Sabayon-Rhum
 
