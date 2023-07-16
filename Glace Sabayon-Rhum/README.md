@@ -14,7 +14,7 @@ L'alcool a un autre avantage dans les glaces : ne gélant pas au congélateur, i
 
 Rien de compliqué à trouver côté ingrédients :
 
-- 8 jaunes d'œufs ([je me répète](../Glace%20Pralin%C3%A9/README.md#La_glace), mais n'hésitez pas à congeler les blancs)
+- 8 jaunes d'œufs ([je me répète](../Glace%20Pralin%C3%A9/README.md#la-glace), mais n'hésitez pas à congeler les blancs)
 - 40 cl de crème liquide* bien froide
 - 160g de sucre
 - 8cl de rhum dilué dans 8cl d'eau
