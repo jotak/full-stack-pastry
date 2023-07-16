@@ -44,9 +44,11 @@ Quelques recettes open-source (MIT), pull-requests bienvenues!
 
 > Le praliné, c'est compliqué. [...] [Lire la suite](./Glace%20Praliné).
 
-## Glace Sabayon-Rhum
+## [Glace Sabayon-Rhum aux noix](./Glace%20Sabayon-Rhum)
 
-À venir
+<img src="Glace Sabayon-Rhum/images/sabayon-rhum.jpg" width=50% height=50%>
+
+> Une glace coup-de-cœur qui m'évoque obligatoirement l'Argentine[...] [Lire la suite](./Glace%20Sabayon-Rhum).
 
 ## Le Parchemin de Cuges
 
